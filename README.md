@@ -14,11 +14,11 @@ npm run build
 ```bash
 npm run preview
 ```
-Now open http://localhost:300/basepath
+Now open http://localhost:3000/basepath
 
 ## Start as node server (not working)
 ```bash
 node build
 ```
-Now open http://localhost:300/basepath
+Now open http://localhost:3000/basepath
 
